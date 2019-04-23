@@ -111,7 +111,7 @@ log/
 # Do not push sensitive files
 config.cfg
 Pipfile
-Pipfile.local
+Pipfile.lock
 req.txt
 .travis.yml
 .DS_Store
