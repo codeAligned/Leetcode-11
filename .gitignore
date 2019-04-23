@@ -110,3 +110,8 @@ log/
 
 # Do not push sensitive files
 config.cfg
+Pipfile
+Pipfile.local
+req.txt
+.travis.yml
+.DS_Store
