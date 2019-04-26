@@ -595,7 +595,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
         cmd_git_commit = 'git commit -m "update at {date}"'.format(
             date=strdate
         )
-        cmd_git_push = 'git push'## -u origin master'
+        cmd_git_push = 'git push -u origin master'
         os.system(cmd_git_add)
         os.system(cmd_git_commit)
         os.system(cmd_git_push)
@@ -624,6 +624,6 @@ def do_job(leetcode):
 
 if __name__ == '__main__':
     leetcode = Leetcode()
-    while True:
-        do_job(leetcode)
-        time.sleep(24 * 60 * 60)
+    #while True:
+    do_job(leetcode)
+    #    time.sleep(24 * 60 * 60)
