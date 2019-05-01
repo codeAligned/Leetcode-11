@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2019-05-01 23:38:02
+Update time:  2019-05-01 23:44:57
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -8,7 +8,7 @@ while there are **140** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
-If you have any question, please give me an [issue](https://github.com/lscoon/Leetcode.git/issues).
+If you have any question, please give me an [issue](https://github.com/lscoon/Leetcode/issues).
 
 If you are loving solving problems in leetcode, please contact me to enjoy it together!
 
@@ -16,20 +16,20 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
-|1|[two-sum](https://leetcode.com/problems/two-sum)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0001-two-sum/two-sum.java)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
-|2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0002-add-two-numbers/add-two-numbers.java)|[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
-|3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java)|[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
+|1|[two-sum](https://leetcode.com/problems/two-sum)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0001-two-sum/two-sum.java)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
+|2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0002-add-two-numbers/add-two-numbers.java)|[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
+|3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java)|[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)||[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
-|6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0006-zigzag-conversion/zigzag-conversion.java)|[:memo:](https://leetcode.com/articles/zigzag-conversion/)|Medium|
-|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0007-reverse-integer/reverse-integer.java)|[:memo:](https://leetcode.com/articles/reverse-integer/)|Easy|
+|6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0006-zigzag-conversion/zigzag-conversion.java)|[:memo:](https://leetcode.com/articles/zigzag-conversion/)|Medium|
+|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0007-reverse-integer/reverse-integer.java)|[:memo:](https://leetcode.com/articles/reverse-integer/)|Easy|
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
-|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0009-palindrome-number/palindrome-number.java)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
-|10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0010-regular-expression-matching/regular-expression-matching.java)|[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
+|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0009-palindrome-number/palindrome-number.java)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
+|10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0010-regular-expression-matching/regular-expression-matching.java)|[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
-|12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0012-integer-to-roman/integer-to-roman.java)||Medium|
-|13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0013-roman-to-integer/roman-to-integer.java)||Easy|
-|14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0014-longest-common-prefix/longest-common-prefix.java)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
+|12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0012-integer-to-roman/integer-to-roman.java)||Medium|
+|13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0013-roman-to-integer/roman-to-integer.java)||Easy|
+|14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0014-longest-common-prefix/longest-common-prefix.java)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
 |15|[3sum](https://leetcode.com/problems/3sum)|||Medium|
 |16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|||Medium|
 |17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)||[:memo:](https://leetcode.com/articles/letter-combinations-of-a-phone-number/)|Medium|
@@ -53,7 +53,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|||Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)||[:memo:](https://leetcode.com/articles/valid-sudoku/)|Medium|
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)||[:memo:](https://leetcode.com/articles/sudoku-solver/)|Hard|
-|38|[count-and-say](https://leetcode.com/problems/count-and-say)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0038-count-and-say/count-and-say.java)||Easy|
+|38|[count-and-say](https://leetcode.com/problems/count-and-say)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0038-count-and-say/count-and-say.java)||Easy|
 |39|[combination-sum](https://leetcode.com/problems/combination-sum)|||Medium|
 |40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)|||Medium|
 |41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)||[:memo:](https://leetcode.com/articles/first-missing-positive/)|Hard|
@@ -261,7 +261,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |259|[3sum-smaller](https://leetcode.com/problems/3sum-smaller)|:lock:|[:memo:](https://leetcode.com/articles/3sum-smaller/)|Medium|
 |260|[single-number-iii](https://leetcode.com/problems/single-number-iii)|||Medium|
 |261|[graph-valid-tree](https://leetcode.com/problems/graph-valid-tree)|:lock:||Medium|
-|263|[ugly-number](https://leetcode.com/problems/ugly-number)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0263-ugly-number/ugly-number.java)||Easy|
+|263|[ugly-number](https://leetcode.com/problems/ugly-number)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0263-ugly-number/ugly-number.java)||Easy|
 |264|[ugly-number-ii](https://leetcode.com/problems/ugly-number-ii)|||Medium|
 |265|[paint-house-ii](https://leetcode.com/problems/paint-house-ii)|:lock:||Hard|
 |266|[palindrome-permutation](https://leetcode.com/problems/palindrome-permutation)|:lock:|[:memo:](https://leetcode.com/articles/palindrome-permutation/)|Easy|
@@ -302,7 +302,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |301|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses)||[:memo:](https://leetcode.com/articles/remove-invalid-parentheses/)|Hard|
 |302|[smallest-rectangle-enclosing-black-pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|:lock:|[:memo:](https://leetcode.com/articles/smallest-rectangle-enclosing-black-pixels/)|Hard|
 |303|[range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable)||[:memo:](https://leetcode.com/articles/range-sum-query-immutable/)|Easy|
-|304|[range-sum-query-2d-immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0304-range-sum-query-2d-immutable/range-sum-query-2d-immutable.java)|[:memo:](https://leetcode.com/articles/range-sum-query-2d-immutable/)|Medium|
+|304|[range-sum-query-2d-immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0304-range-sum-query-2d-immutable/range-sum-query-2d-immutable.java)|[:memo:](https://leetcode.com/articles/range-sum-query-2d-immutable/)|Medium|
 |305|[number-of-islands-ii](https://leetcode.com/problems/number-of-islands-ii)|:lock:|[:memo:](https://leetcode.com/articles/number-of-islands-ii/)|Hard|
 |306|[additive-number](https://leetcode.com/problems/additive-number)|||Medium|
 |307|[range-sum-query-mutable](https://leetcode.com/problems/range-sum-query-mutable)||[:memo:](https://leetcode.com/articles/range-sum-query-mutable/)|Medium|
@@ -374,7 +374,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |373|[find-k-pairs-with-smallest-sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)|||Medium|
 |374|[guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower)||[:memo:](https://leetcode.com/articles/guess-number-higher-or-lower/)|Easy|
 |375|[guess-number-higher-or-lower-ii](https://leetcode.com/problems/guess-number-higher-or-lower-ii)||[:memo:](https://leetcode.com/articles/guess-number-higher-or-lower-ii/)|Medium|
-|376|[wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0376-wiggle-subsequence/wiggle-subsequence.java)|[:memo:](https://leetcode.com/articles/wiggle-subsequence/)|Medium|
+|376|[wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0376-wiggle-subsequence/wiggle-subsequence.java)|[:memo:](https://leetcode.com/articles/wiggle-subsequence/)|Medium|
 |377|[combination-sum-iv](https://leetcode.com/problems/combination-sum-iv)|||Medium|
 |378|[kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|||Medium|
 |379|[design-phone-directory](https://leetcode.com/problems/design-phone-directory)|:lock:||Medium|
@@ -449,7 +449,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |454|[4sum-ii](https://leetcode.com/problems/4sum-ii)|||Medium|
 |455|[assign-cookies](https://leetcode.com/problems/assign-cookies)|||Easy|
 |456|[132-pattern](https://leetcode.com/problems/132-pattern)||[:memo:](https://leetcode.com/articles/132-pattern/)|Medium|
-|457|[circular-array-loop](https://leetcode.com/problems/circular-array-loop)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0457-circular-array-loop/circular-array-loop.java)||Medium|
+|457|[circular-array-loop](https://leetcode.com/problems/circular-array-loop)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0457-circular-array-loop/circular-array-loop.java)||Medium|
 |458|[poor-pigs](https://leetcode.com/problems/poor-pigs)||[:memo:](https://leetcode.com/articles/poor-pigs/)|Hard|
 |459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern)|||Easy|
 |460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|||Hard|
@@ -746,7 +746,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |808|[number-of-matching-subsequences](https://leetcode.com/problems/number-of-matching-subsequences)||[:memo:](https://leetcode.com/articles/number-of-matching-subsequences/)|Medium|
 |809|[preimage-size-of-factorial-zeroes-function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function)||[:memo:](https://leetcode.com/articles/preimage-size-of-factorial-zeroes-function/)|Hard|
 |810|[valid-tic-tac-toe-state](https://leetcode.com/problems/valid-tic-tac-toe-state)||[:memo:](https://leetcode.com/articles/valid-tic-tac-toe-state/)|Medium|
-|811|[number-of-subarrays-with-bounded-maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0811-number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.java)|[:memo:](https://leetcode.com/articles/number-of-subarrays-with-bounded-maximum/)|Medium|
+|811|[number-of-subarrays-with-bounded-maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0811-number-of-subarrays-with-bounded-maximum/number-of-subarrays-with-bounded-maximum.java)|[:memo:](https://leetcode.com/articles/number-of-subarrays-with-bounded-maximum/)|Medium|
 |812|[rotate-string](https://leetcode.com/problems/rotate-string)||[:memo:](https://leetcode.com/articles/rotate-string/)|Easy|
 |813|[all-paths-from-source-to-target](https://leetcode.com/problems/all-paths-from-source-to-target)||[:memo:](https://leetcode.com/articles/all-paths-from-source-to-target/)|Medium|
 |814|[smallest-rotation-with-highest-score](https://leetcode.com/problems/smallest-rotation-with-highest-score)||[:memo:](https://leetcode.com/articles/smallest-rotation-with-highest-score/)|Hard|
@@ -864,7 +864,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |933|[increasing-order-search-tree](https://leetcode.com/problems/increasing-order-search-tree)||[:memo:](https://leetcode.com/articles/increasing-order-search-tree/)|Easy|
 |934|[bitwise-ors-of-subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays)||[:memo:](https://leetcode.com/articles/bitwise-ors-of-subarrays/)|Medium|
 |935|[orderly-queue](https://leetcode.com/problems/orderly-queue)||[:memo:](https://leetcode.com/articles/orderly-queue/)|Hard|
-|936|[rle-iterator](https://leetcode.com/problems/rle-iterator)|[Java](https://github.com/lscoon/Leetcode.git/blob/master/solutions/0936-rle-iterator/rle-iterator.java)|[:memo:](https://leetcode.com/articles/rle-iterator/)|Medium|
+|936|[rle-iterator](https://leetcode.com/problems/rle-iterator)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0936-rle-iterator/rle-iterator.java)|[:memo:](https://leetcode.com/articles/rle-iterator/)|Medium|
 |937|[online-stock-span](https://leetcode.com/problems/online-stock-span)||[:memo:](https://leetcode.com/articles/online-stock-span/)|Medium|
 |938|[numbers-at-most-n-given-digit-set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)||[:memo:](https://leetcode.com/articles/numbers-at-most-n-given-digit-set/)|Hard|
 |939|[valid-permutations-for-di-sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence)||[:memo:](https://leetcode.com/articles/valid-permutations-for-di-sequence/)|Hard|
