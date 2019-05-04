@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2019-05-03 10:42:54
+Update time:  2019-05-04 22:31:49
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **21   /   986** problems
+I have solved **23   /   986** problems
 while there are **140** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -71,7 +71,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|||Easy|
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)||[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
 |55|[jump-game](https://leetcode.com/problems/jump-game)||[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
-|56|[merge-intervals](https://leetcode.com/problems/merge-intervals)||[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
+|56|[merge-intervals](https://leetcode.com/problems/merge-intervals)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0056-merge-intervals/merge-intervals.java)|[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
 |57|[insert-interval](https://leetcode.com/problems/insert-interval)|||Hard|
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|||Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
@@ -593,7 +593,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |644|[maximum-average-subarray-ii](https://leetcode.com/problems/maximum-average-subarray-ii)|:lock:|[:memo:](https://leetcode.com/articles/maximum-average-subarray-ii/)|Hard|
 |645|[set-mismatch](https://leetcode.com/problems/set-mismatch)||[:memo:](https://leetcode.com/articles/set-mismatch/)|Easy|
 |646|[maximum-length-of-pair-chain](https://leetcode.com/problems/maximum-length-of-pair-chain)||[:memo:](https://leetcode.com/articles/maximum-length-of-pair-chain/)|Medium|
-|647|[palindromic-substrings](https://leetcode.com/problems/palindromic-substrings)||[:memo:](https://leetcode.com/articles/palindromic-substrings/)|Medium|
+|647|[palindromic-substrings](https://leetcode.com/problems/palindromic-substrings)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0647-palindromic-substrings/palindromic-substrings.java)|[:memo:](https://leetcode.com/articles/palindromic-substrings/)|Medium|
 |648|[replace-words](https://leetcode.com/problems/replace-words)||[:memo:](https://leetcode.com/articles/replace-words/)|Medium|
 |649|[dota2-senate](https://leetcode.com/problems/dota2-senate)||[:memo:](https://leetcode.com/articles/dota2-senate/)|Medium|
 |650|[2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard)||[:memo:](https://leetcode.com/articles/2-keys-keyboard/)|Medium|
