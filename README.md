@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2019-07-09 22:51:52
+Update time:  2019-07-10 20:34:02
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **28   /   1047** problems
+I have solved **30   /   1047** problems
 while there are **161** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -48,7 +48,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |30|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|||Hard|
 |31|[next-permutation](https://leetcode.com/problems/next-permutation)||[:memo:](https://leetcode.com/articles/next-permutation/)|Medium|
 |32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)||[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
-|33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)||[:memo:](https://leetcode.com/articles/search-in-rotated-sorted-array/)|Medium|
+|33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0033-search-in-rotated-sorted-array/search-in-rotated-sorted-array.java)|[:memo:](https://leetcode.com/articles/search-in-rotated-sorted-array/)|Medium|
 |34|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)||[:memo:](https://leetcode.com/articles/find-first-and-last-position-element-sorted-array/)|Medium|
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|||Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)||[:memo:](https://leetcode.com/articles/valid-sudoku/)|Medium|
@@ -433,7 +433,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)|||Easy|
 |439|[ternary-expression-parser](https://leetcode.com/problems/ternary-expression-parser)|:lock:||Medium|
 |440|[k-th-smallest-in-lexicographical-order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)|||Hard|
-|441|[arranging-coins](https://leetcode.com/problems/arranging-coins)|||Easy|
+|441|[arranging-coins](https://leetcode.com/problems/arranging-coins)|[Java](https://github.com/lscoon/Leetcode/blob/master/solutions/0441-arranging-coins/arranging-coins.java)||Easy|
 |442|[find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|||Medium|
 |443|[string-compression](https://leetcode.com/problems/string-compression)||[:memo:](https://leetcode.com/articles/string-compression/)|Easy|
 |444|[sequence-reconstruction](https://leetcode.com/problems/sequence-reconstruction)|:lock:||Medium|
